@@ -1,1 +1,1 @@
-my first C program
+#!bin/bash
