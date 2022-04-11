@@ -1,1 +1,1 @@
-my readme file for 0x01- variables
+conditional operators in c
